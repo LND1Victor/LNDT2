@@ -1,0 +1,8 @@
+* { text-align: center; }
+h2   {color:rgb(10, 10, 10);}
+h3 {font-family: 'Courier New', Courier, monospace; color: black;}
+body {background-color: rgb(114, 123, 165);}
+ul  { color:black; text-align: center;}
+img {width: 500px; height: 325px ; margin: 10px; }
+p {font-family: 'Courier New', Courier, monospace;}
+hr {color: black; margin-left: 150px; margin-right: 150px; }

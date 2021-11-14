@@ -1,0 +1,37 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box; background-color: rgb(114, 123, 165);}
+h3 {font-family: 'Courier New', Courier, monospace;text-align: center;color: black;}
+article {text-align: justify;margin-left: 150px; margin-right: 150px;}
+hr {color: black; margin-left: 150px; margin-right: 150px; }
+footer {text-align: center;font-family: 'Courier New', Courier, monospace;}
+input[type=text], select, textarea {
+  width:100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #f2f7f5;
+  color: rgb(0, 0, 0);
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #f6fdf7;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: rgb(114, 123, 165);
+  padding: 20px;
+}
+h3 {text-align: center;}
+h4 {text-align: center; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
